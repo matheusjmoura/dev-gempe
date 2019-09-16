@@ -1,0 +1,11 @@
+{
+  "name": "dev-gempe",
+  "version": "1.0.0",
+  "description": "Gempe Academy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matheus Jose de Moura <matheusmoura@alunos.utfpr.edu.br>",
+  "license": "MIT"
+}
