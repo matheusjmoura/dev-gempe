@@ -1,11 +1,19 @@
 {
   "name": "dev-gempe",
   "version": "1.0.0",
-  "description": "Gempe Academy",
+  "description": "Teste",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/matheusjmoura/dev-gempe.git"
+  },
   "author": "Matheus Jose de Moura <matheusmoura@alunos.utfpr.edu.br>",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matheusjmoura/dev-gempe/issues"
+  },
+  "homepage": "https://github.com/matheusjmoura/dev-gempe#readme"
 }
