@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/matheusjmoura/dev-gempe.git"
+    "url": "git+https://github.com/matheusjmoura/dev-gempe.git"
   },
   "author": "Matheus Jose de Moura <matheusmoura@alunos.utfpr.edu.br>",
   "license": "MIT",
